@@ -11,3 +11,4 @@ hello world!I'm  studying git today.I hope I can master it as soon as possible.
 hello world!I'm  studying git today.I hope I can master it as soon as possible.
 <<<<<<< HEAD
 hot fix  master test
+11111111111
